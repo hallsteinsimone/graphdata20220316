@@ -1,4 +1,4 @@
-IDD;Verfasser;GND_Verfasser;Ttitel
+IDD;Verfasser;GND_Verfasser;Titel
 IDD-001;Bernhardin von Siena;11850987X;Quadragesimale de christiana Religiouse
 IDD-002;Bernhardin von Siena;11850987X;Quadragesimale de christiana Religiouse
 IDD-003;Bernhardin von Siena;11850987X;Quadragesimale de christiana Religiouse
@@ -19,7 +19,7 @@ IDD-016;Franciscus Tissardus;137736703;Dialogus (etc.)
 IDD-017;Paulus Burgensis, Paulus von Burgos, Paulus de Santa Maria, Pablo de Santa Maria, Salomo ben Levi;119105144;Scrutinium scripturarum
 IDD-018;Rabi Samuel (i.e. Alfonsus Bonihominis, GND 119061481);102849587 (i.e. Alfonsus Bonihominis, GND 119061481);(1) Epistola ad R. Isaac de adventu Messiae quem Judaei temere expectant (2) Epistola contra Judaeorum errores. Tr: Alphonsus Boni Hominis (3) Quod Judaei messiam, qui venit seu venturum, temere exspectent
 IDD-019;Victor von Carben;119858703;De vita et moribus Judaeorum
-IDD-020;Jacobus Perez de Valentia;119348918;(1) Centum ac quinquagenta Psalmi Davidici cum expositione (USTC). (2) Centu? ac quinquaginta psalmi Dauidici, cum diligentissima etiam tituloru? omniu? expositione ... Iacobi Perez de Vale?tia ... Præterea ... in cantica officialia ... eiusdem doctissimi patris expositiones. Accessit ad hec tractatus contra iudeos, etc. G.L. (BL)
+IDD-020;Jacobus Perez de Valentia;119348918;(1) Centum ac quinquagenta Psalmi Davidici cum expositione (USTC). (2) Centu? ac quinquaginta psalmi Dauidici, cum diligentissima etiam tituloru? omniu? expositione ... Iacobi Perez de Vale?tia ... PrÃ¦terea ... in cantica officialia ... eiusdem doctissimi patris expositiones. Accessit ad hec tractatus contra iudeos, etc. G.L. (BL)
 IDD-021;Rabi Samuel (i.e. Alfonsus Bonihominis, GND 119061481);102849587 (i.e. Alfonsus Bonihominis, GND 119061481);(1) Epistola ad R. Isaac de adventu Messiae quem Judaei temere expectant (2) Epistola contra Judaeorum errores. Tr: Alphonsus Boni Hominis (3) Quod Judaei messiam, qui venit seu venturum, temere exspectent
 IDD-023;Rabi Samuel (i.e. Alfonsus Bonihominis, GND 119061481);102849587 (i.e. Alfonsus Bonihominis, GND 119061481);(1) Epistola ad R. Isaac de adventu Messiae quem Judaei temere expectant (2) Epistola contra Judaeorum errores. Tr: Alphonsus Boni Hominis (3) Quod Judaei messiam, qui venit seu venturum, temere exspectent
 IDD-024;Johannes Duns Scotus;118528165;(1) Quaestiones in quattuor libros Sententiarum (2) Quaestiones in quattuor libros Sententiarum Petri Lombardi
@@ -51,7 +51,7 @@ IDD-047;Johannes Pfefferkorn;118848801;Brandspiegel
 IDD-048;Rabi Samuel (i.e. Alfonsus Bonihominis, GND 119061481);102849587 (i.e. Alfonsus Bonihominis, GND 119061481);(1) Epistola ad R. Isaac de adventu Messiae quem Judaei temere expectant (2) Epistola contra Judaeorum errores. Tr: Alphonsus Boni Hominis (3) Quod Judaei messiam, qui venit seu venturum, temere exspectent
 IDD-049;Rabi Samuel (i.e. Alfonsus Bonihominis, GND 119061481);102849587 (i.e. Alfonsus Bonihominis, GND 119061481);(1) Epistola ad R. Isaac de adventu Messiae quem Judaei temere expectant (2) Epistola contra Judaeorum errores. Tr: Alphonsus Boni Hominis (3) Quod Judaei messiam, qui venit seu venturum, temere exspectent
 IDD-050;Johannes Pfefferkorn;118848801;Klage
-IDD-051;Victor von Carben;119858703;Ain schön und seüberlich Tractat vo(n) der edlen rainen und unbeflecten junckfrauschaft Marie, etc.
+IDD-051;Victor von Carben;119858703;Ain schÃ¶n und seÃ¼berlich Tractat vo(n) der edlen rainen und unbeflecten junckfrauschaft Marie, etc.
 IDD-052;Arnoldus de Tongern;10065844X;(1) Alphabeta in maledicos Judaeos et Thalmud (VD16 A 3763). (2) Responsiones ad argumenta quinquaginta. (VD16 A 3775)
 IDD-053;Johannes Teuschlein;130084743;Auflosung ettli=||cher Fragen zu lob vnd ere || christi Jesu/ auch seiner lieben m#(ue)tter || Marie/ wider die verstockt? plin=||te Juden/ vnd alle die jhe=||nen so sie in jren lan||den vnd stet=||ten wi=||der recht ent=||halten f#(ue)ren vnd ge||dulden ne#(ue)lich geschehen
 IDD-054;Johannes Pfefferkorn;118848801;Beschirmung
@@ -70,7 +70,7 @@ IDD-066;Johannes Pfefferkorn;118848801;Judenspiegel
 IDD-067;Lorenz Fries;118536028;Der Juden practica
 IDD-068;Johannes Pfefferkorn;118848801;Judenspiegel
 IDD-069;Johannes Pfefferkorn;118848801;Judenspiegel
-IDD-070;Ulrich von Hutten;118555049;Die geschicht und bekentnuß des getaufften Juden zu Halle vor Sant Moritzen burgk auff dem Jueden kirchoff mit glueenden zangen gerissen darnach gepraten.
+IDD-070;Ulrich von Hutten;118555049;Die geschicht und bekentnuÃŸ des getaufften Juden zu Halle vor Sant Moritzen burgk auff dem Jueden kirchoff mit glueenden zangen gerissen darnach gepraten.
 IDD-071;null;null;Warhafftig Sumarius der gerichts hendel
 IDD-072;null;null;Warhafftig Sumarius der gerichts hendel
 IDD-073;null;null;Warhafftig Sumarius der gerichts hendel
@@ -80,17 +80,17 @@ IDD-076;Johannes Herolt;100162495;(1) Discipulus de Eruditione christifidelium (
 IDD-077;Johannes Herolt;100162495;(1) Discipulus de Eruditione christifidelium (2) Liber Discipuli de eruditione Christifidelium (3) De eruditione christifidelium
 IDD-078;Johannes Herolt;100162495;(1) Discipulus de Eruditione christifidelium (2) Liber Discipuli de eruditione Christifidelium (3) De eruditione christifidelium
 IDD-079;Johannes Herolt;100162495;(1) Discipulus de Eruditione christifidelium (2) Liber Discipuli de eruditione Christifidelium (3) De eruditione christifidelium
-IDD-080;Johannes Reuchlin;118744658;Tütsch missive
+IDD-080;Johannes Reuchlin;118744658;TÃ¼tsch missive
 IDD-081;Bartholomaeus Stein;119838311;Ducum, judicum, regum Israhelitici populi cumo ex sacris tum prophanis literis hystorica methodus
-IDD-082;Pamphilus Gengenbach;11853842X;Das ist ein erschrockenliche history von fünff schnöden juden, wie sie das bild Marie verspottetund durchstochen haben
+IDD-082;Pamphilus Gengenbach;11853842X;Das ist ein erschrockenliche history von fÃ¼nff schnÃ¶den juden, wie sie das bild Marie verspottetund durchstochen haben
 IDD-083;Rabi Samuel (i.e. Alfonsus Bonihominis, GND 119061481);102849587 (i.e. Alfonsus Bonihominis, GND 119061481);(1) Epistola ad R. Isaac de adventu Messiae quem Judaei temere expectant (2) Epistola contra Judaeorum errores. Tr: Alphonsus Boni Hominis (3) Quod Judaei messiam, qui venit seu venturum, temere exspectent
-IDD-084;null;null;Ein gesprech auff das kurtzt zwuschen eynem Christen und Juden auch eynem wyrthe, sampt seynem haußknecht den eckstein Christum betreffendt so noch Goetlicher schrifft abkunterfeyt ist wie alhie beygedruckt figur außweyßet.
+IDD-084;null;null;Ein gesprech auff das kurtzt zwuschen eynem Christen und Juden auch eynem wyrthe, sampt seynem hauÃŸknecht den eckstein Christum betreffendt so noch Goetlicher schrifft abkunterfeyt ist wie alhie beygedruckt figur auÃŸweyÃŸet.
 IDD-085;Rabi Samuel (i.e. Alfonsus Bonihominis, GND 119061481);102849587 (i.e. Alfonsus Bonihominis, GND 119061481);(1) Epistola ad R. Isaac de adventu Messiae quem Judaei temere expectant (2) Epistola contra Judaeorum errores. Tr: Alphonsus Boni Hominis (3) Quod Judaei messiam, qui venit seu venturum, temere exspectent
-IDD-086;null;null;Ein hübscher newer leerspruch wie ein münch nach vil disputierens einen verstockten Juden zu Christenlichem glauben bekerte, und wie er den tauff auch gutte underweysung des münchs an nam.
-IDD-087;Victor von Carben;119858703;Ein schoen und seüberlich tractat von der edlen reinen und unbefleckten junckfrawschafft Marie der hymelischen Künigin mutter unsers Herren Jesu Christi
+IDD-086;null;null;Ein hÃ¼bscher newer leerspruch wie ein mÃ¼nch nach vil disputierens einen verstockten Juden zu Christenlichem glauben bekerte, und wie er den tauff auch gutte underweysung des mÃ¼nchs an nam.
+IDD-087;Victor von Carben;119858703;Ein schoen und seÃ¼berlich tractat von der edlen reinen und unbefleckten junckfrawschafft Marie der hymelischen KÃ¼nigin mutter unsers Herren Jesu Christi
 IDD-088;null;null;Ein wunderbarlich geschichte. Wye dye merckischen Juden das hochwirdig Sacrament: gekaufft und zu martern sich understanden (USTC)
 IDD-089;null;null;Ein wunderbarlich geschichte. Wye dye merckischen Juden das hochwirdig Sacrament: gekaufft und zu martern sich understanden (USTC)
-IDD-090;Thomas Murner;118585886;Enderung und schmach der bildung Marie von den Juden bewissen. vnd zu ewiger gedechtnüss durch Maximilianum den römischen keyser zu malen verschaffet in der löblichen stat kolmer, von dannen sy ouch ewig vertriben syndt
+IDD-090;Thomas Murner;118585886;Enderung und schmach der bildung Marie von den Juden bewissen. vnd zu ewiger gedechtnÃ¼ss durch Maximilianum den rÃ¶mischen keyser zu malen verschaffet in der lÃ¶blichen stat kolmer, von dannen sy ouch ewig vertriben syndt
 IDD-091;Victor von Carben;119858703;Eyn schoin vnd suberlich tractat von der edele reyne vnd vnbefleckte junckfrouschaff Marie, etc.
 IDD-092;null;null;Ein wunderbarlich geschichte. Wye dye merckischen Juden das hochwirdig Sacrament: gekaufft und zu martern sich understanden (USTC)
 IDD-093;null;null;Ein wunderbarlich geschichte. Wye dye merckischen Juden das hochwirdig Sacrament: gekaufft und zu martern sich understanden (USTC)
@@ -100,12 +100,12 @@ IDD-096;Thomas Murner;118585886;Benedicite judeorum uti soliti sut ante et post 
 IDD-097;Thomas Murner;118585886;Huqah ha-pesah. Ritus et celebratio Phase Tudeorum cum orationibus eorum et benedictionibus mense ad litteram interpretatis (etc.) Per Thomam Munner ex Hebreo in Lateinum traducta.
 IDD-098;Johannes Pfefferkorn;118848801;Handspiegel
 IDD-099;Marcus Antonius Sabellicus;100960170;Historia hebreorum ex ... Enneadibus excerpta, eius gentis ritus, leges & gesta, ab orbe co(n)dito ad Iesu Christi te(m)pora ... co(m)plectens (etc.)
-IDD-100;null;null;Hierinn auff das kürtzest ist angezaigt der dreien glauben
-IDD-101;null;null;Hierinn auff das kürtzest ist angezaigt der dreien glauben
+IDD-100;null;null;Hierinn auff das kÃ¼rtzest ist angezaigt der dreien glauben
+IDD-101;null;null;Hierinn auff das kÃ¼rtzest ist angezaigt der dreien glauben
 IDD-102;Johannes Pfefferkorn;118848801;Judenfeind
 IDD-103;Johannes Pfefferkorn;118848801;Judenfeind
-IDD-104;Johannes Pfefferkorn;118848801;Osterbüchlein
-IDD-105;Johannes Pfefferkorn;118848801;Osterbüchlein
+IDD-104;Johannes Pfefferkorn;118848801;OsterbÃ¼chlein
+IDD-105;Johannes Pfefferkorn;118848801;OsterbÃ¼chlein
 IDD-106;Johannes Pfefferkorn;118848801;Judenbeichte
 IDD-107;Johannes Pfefferkorn;118848801;Judenbeichte
 IDD-108;Johannes Pfefferkorn;118848801;Judenbeichte
@@ -122,22 +122,22 @@ IDD-118;Theobaldus de Sexannia;100961932;(1) Pharetra fidei contra Iudaeos (2) P
 IDD-119;Theobaldus de Sexannia;100961932;(1) Pharetra fidei contra Iudaeos (2) Pharetra fidei catholice
 IDD-120;Theobaldus de Sexannia;100961932;(1) Pharetra fidei contra Iudaeos (2) Pharetra fidei catholice
 IDD-121;Victor von Carben;119858703;Propugnaculum fidei Christiane victoris de carben primum judei rabi et legisperiti. Nuc Christiani sacerdois. Instar dyalogi Christianum et judeum disputatores introducens
-IDD-122;Ulrich Zasius;118772295;Questiones: de paruulis judeorum baptisandis: a communi doctorum assertione dissidentes. In quibus preter stili nitorem: rara: jucunda et grata invenias. Ab excellentiss. Viro Udalrico Zasio: legum doctore: earundemque in gymnasio Friburgeñ. Ordinario: edite.
+IDD-122;Ulrich Zasius;118772295;Questiones: de paruulis judeorum baptisandis: a communi doctorum assertione dissidentes. In quibus preter stili nitorem: rara: jucunda et grata invenias. Ab excellentiss. Viro Udalrico Zasio: legum doctore: earundemque in gymnasio FriburgeÃ±. Ordinario: edite.
 IDD-123;Rabi Samuel (i.e. Alfonsus Bonihominis, GND 119061481);102849587 (i.e. Alfonsus Bonihominis, GND 119061481);(1) Epistola ad R. Isaac de adventu Messiae quem Judaei temere expectant (2) Epistola contra Judaeorum errores. Tr: Alphonsus Boni Hominis (3) Quod Judaei messiam, qui venit seu venturum, temere exspectent
 IDD-124;Nicolaus de Lyra;119238683;(1) Contra perfidiam Judaeorum (2) Quaestio de probatione per scripturas a Judaeis receptas
 IDD-124;Nicolaus de Lyra;119238683;(Contra quenda(m) iud(a)eum ex verbis evangelii / christum et eius doctinam impugnantem)
 IDD-125;Johannes Pfefferkorn;118848801;Judenspiegel
 IDD-126;Johannes Pfefferkorn;118848801;Judenspiegel
 IDD-127;Johannes Pfefferkorn;118848801;Judenspiegel
-IDD-128;Johannes Pfefferkorn;118848801;Streitbüchlein
+IDD-128;Johannes Pfefferkorn;118848801;StreitbÃ¼chlein
 IDD-129;Johannes Pfefferkorn;118848801;Sturmglocke
-IDD-130;Hans Folz;118534211;Von dem Kunig Salomon und Marckolffo und einem narrn ein huebsch faßnacht spil new gemacht.
-IDD-131;null;null;Von dem untrenlichen ungenaeten rock unsers Herren Jesu Christi den im sein ausserwelte muter selbs gewürckt hat wie der ainem alten Juden gegeben ward. und nach vil Geschichten wunderbarlich ainem Künig (arenndel genant) worden ist der in gen Trier bracht auch yetzo auff dem grossen Reichstag zu Trier in gegenwertigkait Roemischer Kaiserlicher Majestat und anderer Stende des Hailigen Reichs erfunden
-IDD-132;null;null;Von dem untrenlichen ungenaeten rock unsers Herren Jesu Christi den im sein ausserwelte muter selbs gewürckt hat wie der ainem alten Juden gegeben ward. und nach vil Geschichten wunderbarlich ainem Künig (arenndel genant) worden ist der in gen Trier bracht auch yetzo auff dem grossen Reichstag zu Trier in gegenwertigkait Roemischer Kaiserlicher Majestat und anderer Stende des Hailigen Reichs erfunden
+IDD-130;Hans Folz;118534211;Von dem Kunig Salomon und Marckolffo und einem narrn ein huebsch faÃŸnacht spil new gemacht.
+IDD-131;null;null;Von dem untrenlichen ungenaeten rock unsers Herren Jesu Christi den im sein ausserwelte muter selbs gewÃ¼rckt hat wie der ainem alten Juden gegeben ward. und nach vil Geschichten wunderbarlich ainem KÃ¼nig (arenndel genant) worden ist der in gen Trier bracht auch yetzo auff dem grossen Reichstag zu Trier in gegenwertigkait Roemischer Kaiserlicher Majestat und anderer Stende des Hailigen Reichs erfunden
+IDD-132;null;null;Von dem untrenlichen ungenaeten rock unsers Herren Jesu Christi den im sein ausserwelte muter selbs gewÃ¼rckt hat wie der ainem alten Juden gegeben ward. und nach vil Geschichten wunderbarlich ainem KÃ¼nig (arenndel genant) worden ist der in gen Trier bracht auch yetzo auff dem grossen Reichstag zu Trier in gegenwertigkait Roemischer Kaiserlicher Majestat und anderer Stende des Hailigen Reichs erfunden
 IDD-133;Johannes von Capestrano, Johannes de Capestrano, Johannes de Capistrano;118712632;Vita Johannis capistrani. Sermones eiusdem.
-IDD-134;null;null;Von ainer grosse meng unnd gewalt der Juden die lange zeyt mit unwonhafftigen wuesten beschlossen und verborgen gewesen yetzunder auß gebrochen und an tag kommen seyn dreyssig tag rayß von Jherusalem sich nyder geschlagen was sy fürgenommen haben findt man nach laut dises sendbrieffs zum tayl glaubliche underricht.
+IDD-134;null;null;Von ainer grosse meng unnd gewalt der Juden die lange zeyt mit unwonhafftigen wuesten beschlossen und verborgen gewesen yetzunder auÃŸ gebrochen und an tag kommen seyn dreyssig tag rayÃŸ von Jherusalem sich nyder geschlagen was sy fÃ¼rgenommen haben findt man nach laut dises sendbrieffs zum tayl glaubliche underricht.
 IDD-136;null;null;Wie zu plonig ein crist eyns Jueden tochter schwanger macht und sie vermeynt sie hett von eynem Engel der Jueden Messiam entpfangen. Im spaeten thon.
-IDD-137;null;null;Lied über den Judenfrevel zu Deggendorf: Geschichte der Juden zu Deggendorf mit dem Heiligen Sakrament
+IDD-137;null;null;Lied Ã¼ber den Judenfrevel zu Deggendorf: Geschichte der Juden zu Deggendorf mit dem Heiligen Sakrament
 IDD-138;Johannes Pfefferkorn;118848801;Zu Lob und Ehre
 IDD-139;Rabi Samuel (i.e. Alfonsus Bonihominis, GND 119061481);102849587 (i.e. Alfonsus Bonihominis, GND 119061481);(1) Epistola ad R. Isaac de adventu Messiae quem Judaei temere expectant (2) Epistola contra Judaeorum errores. Tr: Alphonsus Boni Hominis (3) Quod Judaei messiam, qui venit seu venturum, temere exspectent
 IDD-140;Nicolaus de Lyra;119238683;(1) Contra perfidiam Judaeorum (2) Quaestio de probatione per scripturas a Judaeis receptas
@@ -151,9 +151,9 @@ IDD-147;Theobaldus de Sexannia;100961932;(1) Pharetra fidei contra Iudaeos (2) P
 IDD-148;Theobaldus de Sexannia;100961932;(1) Pharetra fidei contra Iudaeos (2) Pharetra fidei catholice
 IDD-149;Theobaldus de Sexannia;100961932;(1) Pharetra fidei contra Iudaeos (2) Pharetra fidei catholice
 IDD-150;Theobaldus de Sexannia;100961932;(1) Pharetra fidei contra Iudaeos (2) Pharetra fidei catholice
-IDD-151;null;null;(1) Seelen-Wurzgarten, Teil I. (2) Bewährung, dass die Juden irrenBewährung, dass die Juden irren
-IDD-152;null;null;(1) Seelen-Wurzgarten, Teil I. (2) Bewährung, dass die Juden irrenBewährung, dass die Juden irren
-IDD-153;null;null;(1) Seelen-Wurzgarten, Teil I. (2) Bewährung, dass die Juden irrenBewährung, dass die Juden irren
+IDD-151;null;null;(1) Seelen-Wurzgarten, Teil I. (2) BewÃ¤hrung, dass die Juden irrenBewÃ¤hrung, dass die Juden irren
+IDD-152;null;null;(1) Seelen-Wurzgarten, Teil I. (2) BewÃ¤hrung, dass die Juden irrenBewÃ¤hrung, dass die Juden irren
+IDD-153;null;null;(1) Seelen-Wurzgarten, Teil I. (2) BewÃ¤hrung, dass die Juden irrenBewÃ¤hrung, dass die Juden irren
 IDD-154;Bernhardin von Siena;11850987X;Speculum peccatorum de contemptu mundi
 IDD-155;Alexander de Nevo;100954340;Consilia contra Judaeos foenerantes
 IDD-156;Alfonsus de Spina;119229781;Fortalitium fidei
@@ -170,16 +170,16 @@ IDD-166;Bernhardin von Siena;11850987X;Speculum peccatorum de contemptu mundi
 IDD-167;Giovanni Boccaccio;11851217X;(1) Decamerone (Auzug: V, 1 Cimone). (2) Mythica historia Cymonis
 IDD-168;Giovanni Boccaccio;11851217X;(1) Decamerone (Auzug: V, 1 Cimone). (2) Mythica historia Cymonis
 IDD-169;Giovanni Boccaccio;11851217X;(1) Decamerone (Auzug: V, 1 Cimone). (2) Mythica historia Cymonis
-IDD-170;null;null;Lied über den Judenfrevel zu Deggendorf: Geschichte der Juden zu Deggendorf mit dem Heiligen Sakrament
+IDD-170;null;null;Lied Ã¼ber den Judenfrevel zu Deggendorf: Geschichte der Juden zu Deggendorf mit dem Heiligen Sakrament
 IDD-171;Johannes Duns Scotus;118528165;(1) Quaestiones in quattuor libros Sententiarum (2) Quaestiones in quattuor libros Sententiarum Petri Lombardi
 IDD-172;Johannes Duns Scotus;118528165;(1) Quaestiones in quattuor libros Sententiarum (2) Quaestiones in quattuor libros Sententiarum Petri Lombardi
 IDD-173;Johannes Duns Scotus;118528165;(1) Quaestiones in quattuor libros Sententiarum (2) Quaestiones in quattuor libros Sententiarum Petri Lombardi
 IDD-174;Hans Folz;118534211;Krieg des Dichters wider einen Juden
 IDD-175;Hans Folz;118534211;(1) Von der Juden Messias (2) Der falsche Messias (Schreckenberg)
 IDD-176;Hans Folz;118534211;(1) Von der Juden Messias (2) Der falsche Messias (Schreckenberg)
-IDD-177;Hans Folz;118534211;(1) Die Rechnung Ruprecht Kolpergers (GW) (2) Jüdischer Wucher (Schreckenberg)
-IDD-178;Hans Folz;118534211;(1) Die Rechnung Ruprecht Kolpergers (GW) (2) Jüdischer Wucher (Schreckenberg)
-IDD-179;Hans Folz;118534211;(1) Die Rechnung Ruprecht Kolpergers (GW) (2) Jüdischer Wucher (Schreckenberg)
+IDD-177;Hans Folz;118534211;(1) Die Rechnung Ruprecht Kolpergers (GW) (2) JÃ¼discher Wucher (Schreckenberg)
+IDD-178;Hans Folz;118534211;(1) Die Rechnung Ruprecht Kolpergers (GW) (2) JÃ¼discher Wucher (Schreckenberg)
+IDD-179;Hans Folz;118534211;(1) Die Rechnung Ruprecht Kolpergers (GW) (2) JÃ¼discher Wucher (Schreckenberg)
 IDD-180;Freidank, Frydank;118535188;(1) Bescheidenheit. (2) Proverbia eloquentis Freidanks, (3) Proverbia eloquentis Freydangks innumeras in se utilitates complectentia
 IDD-181;Heinrich von Langenstein;118548395;Tractatus contra Iudaeos
 IDD-182;Johannes Baptista Gratia Dei , Giovanni Battista Graziadei;102487405;(1) Liber de confutatione hebrayce secte (2) De confutatione hebraicae sectae
@@ -194,7 +194,7 @@ IDD-190;Johannes Herolt;100162495;(1) Discipulus de Eruditione christifidelium (
 IDD-191;Johannes Herolt;100162495;(1) Discipulus de Eruditione christifidelium (2) Liber Discipuli de eruditione Christifidelium (3) De eruditione christifidelium
 IDD-192;Johannes Herolt;100162495;(1) Discipulus de Eruditione christifidelium (2) Liber Discipuli de eruditione Christifidelium (3) De eruditione christifidelium
 IDD-193;Johannes von Capestrano, Johannes de Capestrano, Johannes de Capistrano;118712632;De cupiditate
-IDD-194;Nikolaus von Dinkelsbühl, Nicolaus de Dinkelsbühl, Nicolaus de Dinkelsbuel, Nikolaus Prunczlein von Dinkelsbühl;11921587X;Postilla cum sermonibus evangeliorum dominicalium
+IDD-194;Nikolaus von DinkelsbÃ¼hl, Nicolaus de DinkelsbÃ¼hl, Nicolaus de Dinkelsbuel, Nikolaus Prunczlein von DinkelsbÃ¼hl;11921587X;Postilla cum sermonibus evangeliorum dominicalium
 IDD-195;Petrus Nigri, Peter Schwarz, Petrus Niger (GW, ISTC, USTC);100958079;Contra perfides Judaeos de conditionibus veri Messiae
 IDD-196;Petrus Nigri, Peter Schwarz, Petrus Niger (GW, ISTC, USTC);100958079;Contra perfidos Judaeos de conditionibus veri Messiae
 IDD-197;null;null;Geschichte der Juden von Passau mit dem Sakrament im Jahr 1477
@@ -238,9 +238,9 @@ IDD-234;Johannes Matthias Tuberinus, Johannes Mathias Tuberinus;104366281;(1) Re
 IDD-235;Johannes Matthias Tuberinus, Johannes Mathias Tuberinus;104366281;(1) Relatio de Simone puero tridentino (ISTC) (2) De Simone puero tridentino (GW)
 IDD-236;Johannes Matthias Tuberinus, Johannes Mathias Tuberinus;104366281;(1) Relatio de Simone puero tridentino (ISTC) (2) De Simone puero tridentino (GW)
 IDD-237;Johannes Matthias Tuberinus, Johannes Mathias Tuberinus;104366281;(1) Relatio de Simone puero tridentino (ISTC) (2) De Simone puero tridentino (GW)
-IDD-238;null;null;Notariatsinstrument betreffend die Streitigkeiten mit dem Freigrafen Hans Volmar genannt von Twern zu Freienhagen wegen der Wormser Juden, 10 Dec. 1490. Johannes Stol: Vollmacht für Heinrich Walck, Speyer, 14 Oct. 1488. Sixtus IV: Bulla 8 July 1480 Roman
+IDD-238;null;null;Notariatsinstrument betreffend die Streitigkeiten mit dem Freigrafen Hans Volmar genannt von Twern zu Freienhagen wegen der Wormser Juden, 10 Dec. 1490. Johannes Stol: Vollmacht fÃ¼r Heinrich Walck, Speyer, 14 Oct. 1488. Sixtus IV: Bulla 8 July 1480 Roman
 IDD-239;null;null;null
-IDD-240;Hans Sachs (Schöner);null;(1) Wer hat ye grösser clag erhort Der Tyran mich erschrocklich sport (USTC). (2) Wer hat ye gro?sser clag erhort (Schöner. Incipit)
+IDD-240;Hans Sachs (SchÃ¶ner);null;(1) Wer hat ye grÃ¶sser clag erhort Der Tyran mich erschrocklich sport (USTC). (2) Wer hat ye gro?sser clag erhort (SchÃ¶ner. Incipit)
 IDD-241;Alfonsus de Spina;119229781;Fortalitium fidei
 IDD-242;Bernhardin von Siena;11850987X;Quadragesimale de christiana Religiouse
 IDD-243;Johannes Duns Scotus;118528165;(1) Quaestiones in quattuor libros Sententiarum (2) Quaestiones in quattuor libros Sententiarum Petri Lombardi
@@ -258,7 +258,7 @@ IDD-254;Giovanni Boccaccio;11851217X;(1) Decamerone (Auzug: V, 1 Cimone). (2) My
 IDD-255;null;null;Tractatulus valde utilis ad convincendum Iudeos de errore suo: quem habent de messia ad huc venturo: et observantia legis Mosayce. Epistola Pilati Tiberio imperatori de Christo
 IDD-256;null;null;Disputatio unius mercatoris Ianuensis facta Maiorice contra quosdam sapientissimos Iudeos de Messia
 IDD-257;null;null;Sal foederis contra Judaeos
-IDD-258;Cyprian Benet, Cipriano Benetó;119617420;Aculeus contra Judeos
+IDD-258;Cyprian Benet, Cipriano BenetÃ³;119617420;Aculeus contra Judeos
 IDD-259;Petrus Colonna GaLateino;12485382X;Opus de arcanis catholicae veritatis
 IDD-260;Giovanni Boccaccio;11851217X;(1) Decamerone (Auzug: V, 1 Cimone). (2) Mythica historia Cymonis
 IDD-261;Giovanni Boccaccio;11851217X;(1) Decamerone (Auzug: V, 1 Cimone). (2) Mythica historia Cymonis
@@ -334,9 +334,9 @@ IDD-327;Paolo Morosini, Paulus Maurocenus;137452691;(1) De generatione aeterna e
 IDD-328;Celsus Maffeus;121102726;Dissuasoria ne christiani principes ecclesiasticos usurpent census. Prelim: Domitius Calderinus: Epistola ad Jacobum Card. Papiensem. Hermolaus Barbarus: Epistola ad Celsum Maffeum
 IDD-329;Antonius Lollius;102558884;Oratio Passionis dominicae coram Innocentio VIII habita contra Judaeorum perfidiam (USTC)
 IDD-330;Antonius Lollius;102558884;Oratio Passionis dominicae coram Innocentio VIII habita contra Judaeorum perfidiam (USTC)
-IDD-331;Matheus Künig, Matthäus Künig;136588840;(1) Gedicht von dem getöteten Knaben Simon von Trient (ISTC) (2) Lied bzw. Reimlegende von Simon von Trient (GW)
+IDD-331;Matheus KÃ¼nig, MatthÃ¤us KÃ¼nig;136588840;(1) Gedicht von dem getÃ¶teten Knaben Simon von Trient (ISTC) (2) Lied bzw. Reimlegende von Simon von Trient (GW)
 IDD-332;Johannes Treviensis;100949436);Oratio de veri Messiae adventu
-IDD-333;Johannes de Lübeck;12700534X;Prognosticon super Antichristi adventu Judaeorumque Messiae
+IDD-333;Johannes de LÃ¼beck;12700534X;Prognosticon super Antichristi adventu Judaeorumque Messiae
 IDD-334;Isidorus von Sevilla, Isidorus Hispalensis;118555995;De fide catholica contra Judaeos
 IDD-335;Johannes Baptista Gratia Dei , Giovanni Battista Graziadei;102487405;(1) Liber de confutatione hebrayce secte (2) De confutatione hebraicae sectae
 IDD-336;Johannes Duns Scotus;118528165;(1) Quaestiones in quattuor libros Sententiarum (2) Quaestiones in quattuor libros Sententiarum Petri Lombardi
@@ -385,36 +385,36 @@ IDD-377;Johannes Pfefferkorn;118848801;Zu Lob und Ehre
 IDD-378;Thomas Murner;118585886;Benedicite judeorum uti soliti sut ante et post cibi suptionem Benedicere et gratias agere deo egregio doctore thoma murner Argentinensi ordinis minorum interprete.
 IDD-379;null;null;Sendbrief
 IDD-380;null;null;Ein wunderbarlich geschichte. Wye dye merckischen Juden das hochwirdig Sacrament: gekaufft und zu martern sich understanden (USTC)
-IDD-381;Karl V.;118560093;Wir Karl der fünfft thun kund, das hinfür inewig zeit kein Jud noch Jüdin weder auff ligende gu(e)ter zinß noch gült umb noch on wucher heimlich oder offentlich nichts leihen (25.06.1521)
+IDD-381;Karl V.;118560093;Wir Karl der fÃ¼nfft thun kund, das hinfÃ¼r inewig zeit kein Jud noch JÃ¼din weder auff ligende gu(e)ter zinÃŸ noch gÃ¼lt umb noch on wucher heimlich oder offentlich nichts leihen (25.06.1521)
 IDD-382;Jacobus Perez de Valentia;119348918;Opuscula
 IDD-383;Johannes Pfefferkorn;118848801;Judenfeind
-IDD-384;Johannes Pfefferkorn;118848801;Osterbüchlein
+IDD-384;Johannes Pfefferkorn;118848801;OsterbÃ¼chlein
 IDD-385;Rabi Samuel (i.e. Alfonsus Bonihominis, GND 119061481);102849587 (i.e. Alfonsus Bonihominis, GND 119061481);(1) Epistola ad R. Isaac de adventu Messiae quem Judaei temere expectant (2) Epistola contra Judaeorum errores. Tr: Alphonsus Boni Hominis (3) Quod Judaei messiam, qui venit seu venturum, temere exspectent
 IDD-386;Rabi Samuel (i.e. Alfonsus Bonihominis, GND 119061481);102849587 (i.e. Alfonsus Bonihominis, GND 119061481);(1) Epistola ad R. Isaac de adventu Messiae quem Judaei temere expectant (2) Epistola contra Judaeorum errores. Tr: Alphonsus Boni Hominis (3) Quod Judaei messiam, qui venit seu venturum, temere exspectent
-IDD-387;null;null;Ezechiel spricht der Prophet (Schöner. Incipit)
-IDD-388;null;null;Ablaßplakat mit den Arma Christi (Schöner. Incipit)
-IDD-389;null;null;Christus im Verhör (Schöner. Incipit)
-IDD-390;null;null;Christus an der Martersäule (Schöner. Incipit)
-IDD-391;null;null;Judensau (Schöner)
+IDD-387;null;null;Ezechiel spricht der Prophet (SchÃ¶ner. Incipit)
+IDD-388;null;null;AblaÃŸplakat mit den Arma Christi (SchÃ¶ner. Incipit)
+IDD-389;null;null;Christus im VerhÃ¶r (SchÃ¶ner. Incipit)
+IDD-390;null;null;Christus an der MartersÃ¤ule (SchÃ¶ner. Incipit)
+IDD-391;null;null;Judensau (SchÃ¶ner)
 IDD-392;Johannes Duns Scotus;118528165;(1) Quaestiones in quattuor libros Sententiarum (2) Quaestiones in quattuor libros Sententiarum Petri Lombardi
-IDD-393;null;null;Do tausent vierhundert unfundsibenczig jar (Schöner. Incipit)
-IDD-394;null;null;Nun wisset waß der wucher tuet (Schöner. Incipit)
-IDD-395;null;null;Beatus . Simon . martir (Schöner. Incipit)
+IDD-393;null;null;Do tausent vierhundert unfundsibenczig jar (SchÃ¶ner. Incipit)
+IDD-394;null;null;Nun wisset waÃŸ der wucher tuet (SchÃ¶ner. Incipit)
+IDD-395;null;null;Beatus . Simon . martir (SchÃ¶ner. Incipit)
 IDD-396;Antonin von Florenz, Antoninus Pierozzi;118897489;Trialogus super evangelio de duobus discipulis euntibus in Emmaus
-IDD-397;null;null;Item diß ist die recht form des warhafftigen Titels (Schöner. Incipit)
+IDD-397;null;null;Item diÃŸ ist die recht form des warhafftigen Titels (SchÃ¶ner. Incipit)
 IDD-398;Johannes Duns Scotus;118528165;(1) Quaestiones in quattuor libros Sententiarum (2) Quaestiones in quattuor libros Sententiarum Petri Lombardi
-IDD-399;null;null;Hort ir herren allgemein (Schöner. Incipit)
-IDD-400;null;null;(1) Gedicht von dem Knaben Simon zu Trient (ISTC) (2) Historia S. Simonis Tridentini, deutsch. Simon, ein Kind bin ich genannt. (Gedicht über den Tod des Knaben Simon zu Trient) (GW)
-IDD-401;null;null;Schmerzensmann (Schöner. Incipit)
-IDD-402;null;null;Ich pauck vnd pfeyff euch allen herein (Schöner. Incipit)
+IDD-399;null;null;Hort ir herren allgemein (SchÃ¶ner. Incipit)
+IDD-400;null;null;(1) Gedicht von dem Knaben Simon zu Trient (ISTC) (2) Historia S. Simonis Tridentini, deutsch. Simon, ein Kind bin ich genannt. (Gedicht Ã¼ber den Tod des Knaben Simon zu Trient) (GW)
+IDD-401;null;null;Schmerzensmann (SchÃ¶ner. Incipit)
+IDD-402;null;null;Ich pauck vnd pfeyff euch allen herein (SchÃ¶ner. Incipit)
 IDD-403;Johannes Pfefferkorn;118848801;Vaterunser, Ave Maria und Credo
-IDD-404;null;null;Christus vor Kaiphas (Schöner. Incipit)
-IDD-405;null;null;Der Wilde Mann (Schöner. Incipit)
-IDD-406;null;null;(1) Jurist, Jude und Weib. (2) Der Jurist mir seinem b?ch (Schöner. Incipit)
-IDD-407;null;null;Der heiligen/ vnbefleckten/ ausserwelten/ einigen Braut Jesu (Schöner. Incipit)
+IDD-404;null;null;Christus vor Kaiphas (SchÃ¶ner. Incipit)
+IDD-405;null;null;Der Wilde Mann (SchÃ¶ner. Incipit)
+IDD-406;null;null;(1) Jurist, Jude und Weib. (2) Der Jurist mir seinem b?ch (SchÃ¶ner. Incipit)
+IDD-407;null;null;Der heiligen/ vnbefleckten/ ausserwelten/ einigen Braut Jesu (SchÃ¶ner. Incipit)
 IDD-408;Rabi Samuel (i.e. Alfonsus Bonihominis, GND 119061481);102849587 (i.e. Alfonsus Bonihominis, GND 119061481);(1) Epistola ad R. Isaac de adventu Messiae quem Judaei temere expectant (2) Epistola contra Judaeorum errores. Tr: Alphonsus Boni Hominis (3) Quod Judaei messiam, qui venit seu venturum, temere exspectent
 IDD-409;Rabi Samuel (i.e. Alfonsus Bonihominis, GND 119061481);102849587 (i.e. Alfonsus Bonihominis, GND 119061481);(1) Epistola ad R. Isaac de adventu Messiae quem Judaei temere expectant (2) Epistola contra Judaeorum errores. Tr: Alphonsus Boni Hominis (3) Quod Judaei messiam, qui venit seu venturum, temere exspectent
 IDD-410;Rabi Samuel (i.e. Alfonsus Bonihominis, GND 119061481);102849587 (i.e. Alfonsus Bonihominis, GND 119061481);(1) Epistola ad R. Isaac de adventu Messiae quem Judaei temere expectant (2) Epistola contra Judaeorum errores. Tr: Alphonsus Boni Hominis (3) Quod Judaei messiam, qui venit seu venturum, temere exspectent
 IDD-411;Rabi Samuel (i.e. Alfonsus Bonihominis, GND 119061481);102849587 (i.e. Alfonsus Bonihominis, GND 119061481);(1) Epistola ad R. Isaac de adventu Messiae quem Judaei temere expectant (2) Epistola contra Judaeorum errores. Tr: Alphonsus Boni Hominis (3) Quod Judaei messiam, qui venit seu venturum, temere exspectent
-IDD-412;null;null;Drei G?(v mit Kreis)t Ivdin (Schöner. Incipit)
-IDD-413;null;null;Die Drei G?(v mit zwei Punkten)ten Ivden (Schöner. Incipit)
+IDD-412;null;null;Drei G?(v mit Kreis)t Ivdin (SchÃ¶ner. Incipit)
+IDD-413;null;null;Die Drei G?(v mit zwei Punkten)ten Ivden (SchÃ¶ner. Incipit)
