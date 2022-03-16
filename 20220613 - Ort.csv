@@ -1,0 +1,412 @@
+IDD,anmerkung,Druckort,gnd_Ort,Land,gnd_Land
+IDD-001,null,Paris,4044660-8,Frankreich,XA-FR
+IDD-002,null,Paris,4044660-8,Frankreich,XA-FR
+IDD-003,null,Paris,4044660-8,Frankreich,XA-FR
+IDD-004,null,Paris,4044660-8,Frankreich,XA-FR
+IDD-005,null,Lyon,4036770-8,Frankreich,XA-FR
+IDD-006,null,Paris,4044660-8,Frankreich,XA-FR
+IDD-007,null,Paris,4044660-8,Frankreich,XA-FR
+IDD-008,null,Paris,4044660-8,Frankreich,XA-FR
+IDD-010,null,Lyon,4036770-8,Frankreich,XA-FR
+IDD-011,null,Lyon,4036770-8,Frankreich,XA-FR
+IDD-012,null,Lyon,4036770-8,Frankreich,XA-FR
+IDD-013,null,Lyon,4036770-8,Frankreich,XA-FR
+IDD-014,null,Lyon,4036770-8,Frankreich,XA-FR
+IDD-015,null,Paris,4044660-8,Frankreich,XA-FR
+IDD-016,null,Paris,4044660-8,Frankreich,XA-FR
+IDD-017,null,Paris,4044660-8,Frankreich,XA-FR
+IDD-018,null,Paris,4044660-8,Frankreich,XA-FR
+IDD-019,null,Paris,4044660-8,Frankreich,XA-FR
+IDD-020,null,Paris,4044660-8,Frankreich,XA-FR
+IDD-021,null,Paris,4044660-8,Frankreich,XA-FR
+IDD-022,null,Paris,4044660-8,Frankreich,XA-FR
+IDD-023,null,Paris,4044660-8,Frankreich,XA-FR
+IDD-024,null,Paris,4044660-8,Frankreich,XA-FR
+IDD-025,null,Paris,4044660-8,Frankreich,XA-FR
+IDD-026,null,Paris,4044660-8,Frankreich,XA-FR
+IDD-027,null,Paris,4044660-8,Frankreich,XA-FR
+IDD-028,null,Lyon,4036770-8,Frankreich,XA-FR
+IDD-029,null,Lyon,4036770-8,Frankreich,XA-FR
+IDD-030,null,Paris,4044660-8,Frankreich,XA-FR
+IDD-031,null,Paris,4044660-8,Frankreich,XA-FR
+IDD-032,null,Paris,4044660-8,Frankreich,XA-FR
+IDD-033,null,Paris,4044660-8,Frankreich,XA-FR
+IDD-034,null,Paris,4044660-8,Frankreich,XA-FR
+IDD-035,null,Valladolid,4119355-6,Spanien,XA-ES
+IDD-036,null,Utrecht,4062222-8,Niederlande,XA-NL
+IDD-037,null,Utrecht,4062222-8,Niederlande,XA-NL
+IDD-038,null,Brüssel,4008460-7,Belgien,XA-BE
+IDD-039,null,Antwerpen,4002364-3,Belgien,XA-BE
+IDD-040,null,Antwerpen,4002364-3,Belgien,XA-BE
+IDD-041,null,Antwerpen,4002364-3,Belgien,XA-BE
+IDD-042,null,London,4074335-4,Großbritannien,XA-GB
+IDD-043,null,Pilsen,4076145-9,"Tschechischen, Westböhmen",XA-CZ
+IDD-044,null,Basel,4004617-5,"Schweiz, Kanton Basel",XA-CH-BS
+IDD-045,null,Basel,4004617-5,"Schweiz, Kanton Basel",XA-CH-BS
+IDD-046,null,Basel,4004617-5,"Schweiz, Kanton Basel",XA-CH-BS
+IDD-047,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-048,null,Augsburg,4003614-5,"Deutschland, Bayern",XA-DE-BY
+IDD-049,null,Augsburg,4003614-5,"Deutschland, Bayern",XA-DE-BY
+IDD-050,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-051,null,Augsburg,4003614-5,"Deutschland, Bayern",XA-DE-BY
+IDD-052,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-053,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-054,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-055,null,Strassburg,4057878-1,Frankreich,XA-FR
+IDD-056,null,Strassburg,4057878-1,Frankreich,XA-FR
+IDD-057,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-058,null,Zwickau,4068262-6,"Deutschland, Sachsen",XA-DE-SN
+IDD-059,null,Zwickau,4068262-6,"Deutschland, Sachsen",XA-DE-SN
+IDD-060,null,Zwickau,4068262-6,"Deutschland, Sachsen",XA-DE-SN
+IDD-061,null,Augsburg,4003614-5,"Deutschland, Bayern",XA-DE-BY
+IDD-062,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-063,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-064,null,Frankfurt (Main),4018118-2,"Deutschland, Hessen",XA-DE-HE
+IDD-065,null,Braunschweig,4008065-1,"Deutschland, Niedersachsen",XA-DE-NI
+IDD-066,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-067,null,Hagenau,4094465-7,"Frankreich, Unterelsass",XA-FR
+IDD-068,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-069,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-070,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-071,null,Frankfurt (Oder),4018122-4,"Deutschland, Brandenburg",XA-DE-BB
+IDD-072,null,Frankfurt (Oder),4018122-4,"Deutschland, Brandenburg",XA-DE-BB
+IDD-073,null,Frankfurt (Oder),4018122-4,"Deutschland, Brandenburg",XA-DE-BB
+IDD-074,null,Strassburg,4057878-1,Frankreich,XA-FR
+IDD-075,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-076,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-077,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-078,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-079,null,Augsburg,4003614-5,"Deutschland, Bayern",XA-DE-BY
+IDD-080,null,Pforzheim,4045637-7,"Deutschland, Baden-Württemberg",XA-DE-BW
+IDD-081,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-082,null,Basel,4004617-5,"Schweiz, Kanton Basel",XA-CH-BS
+IDD-083,null,Zürich,4068038-1,"Schweiz, Kanton Zürich",XA-CH-ZH
+IDD-084,null,Erfurt,4015240-6,"Deutschland, Thüringen",XA-DE-TH
+IDD-085,null,Colmar,4010401-1,"Frankreich, Oberelsass",XA-FR
+IDD-086,null,Strassburg,4057878-1,Frankreich,XA-FR
+IDD-087,null,Strassburg,4057878-1,Frankreich,XA-FR
+IDD-088,null,München,4127793-4,"Deutschland, Bayern",XA-DE-BY
+IDD-089,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-090,null,Strassburg,4057878-1,Frankreich,XA-FR
+IDD-091,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-092,null,Mainz,4037124-4,"Deutschland, Rheinland-Pfalz ",XA-DE-RP
+IDD-093,null,Leipzig,4035206-7,"Deutschland, Sachsen-Anhalt",XA-DE-SN
+IDD-094,null,Leipzig,4035206-7,"Deutschland, Sachsen-Anhalt",XA-DE-SN
+IDD-095,null,Hagenau,4094465-7,"Frankreich, Unterelsass",XA-FR
+IDD-096,null,Frankfurt (Main),4018118-2,"Deutschland, Hessen",XA-DE-HE
+IDD-097,null,Frankfurt (Main),4018118-2,"Deutschland, Hessen",XA-DE-HE
+IDD-098,null,Mainz,4037124-4,"Deutschland, Rheinland-Pfalz ",XA-DE-RP
+IDD-099,null,Basel,4004617-5,"Schweiz, Kanton Basel",XA-CH-BS
+IDD-100,null,Augsburg,4003614-5,"Deutschland, Bayern",XA-DE-BY
+IDD-101,null,München,4127793-4,"Deutschland, Bayern",XA-DE-BY
+IDD-102,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-103,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-104,null,Augsburg,4003614-5,"Deutschland, Bayern",XA-DE-BY
+IDD-105,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-106,null,Augsburg,4003614-5,"Deutschland, Bayern",XA-DE-BY
+IDD-107,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-108,null,Augsburg,4003614-5,"Deutschland, Bayern",XA-DE-BY
+IDD-109,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-110,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-111,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-112,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-113,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-114,null,Leipzig,4035206-7,"Deutschland, Sachsen-Anhalt",XA-DE-SN
+IDD-115,null,Frankfurt (Oder),4018122-4,"Deutschland, Brandenburg",XA-DE-BB
+IDD-116,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-117,null,Landshut,4034367-4,"Deutschland, Bayern",XA-DE-BY
+IDD-118,null,Landshut,4034367-4,"Deutschland, Bayern",XA-DE-BY
+IDD-119,null,Landshut,4034367-4,"Deutschland, Bayern",XA-DE-BY
+IDD-120,null,Leipzig,4035206-7,"Deutschland, Sachsen-Anhalt",XA-DE-SN
+IDD-121,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-122,null,Strassburg,4057878-1,Frankreich,XA-FR
+IDD-123,null,Strassburg,4057878-1,Frankreich,XA-FR
+IDD-124,null,Basel,4004617-5,"Schweiz, Kanton Basel",XA-CH-BS
+IDD-125,null,Speyer,4056179-3,"Deutschland, Rheinland-Pfalz ",XA-DE-RP
+IDD-126,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-127,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-128,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-129,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-130,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-131,null,Augsburg,4003614-5,"Deutschland, Bayern",XA-DE-BY
+IDD-132,null,Augsburg,4003614-5,"Deutschland, Bayern",XA-DE-BY
+IDD-133,null,Augsburg,4003614-5,"Deutschland, Bayern",XA-DE-BY
+IDD-134,null,Augsburg,4003614-5,"Deutschland, Bayern",XA-DE-BY
+IDD-136,null,Strassburg,4057878-1,Frankreich,XA-FR
+IDD-137,null,Augsburg,4003614-5,"Deutschland, Bayern",XA-DE-BY
+IDD-138,null,Augsburg,4003614-5,"Deutschland, Bayern",XA-DE-BY
+IDD-139,null,Strassburg,4057878-1,Frankreich,XA-FR
+IDD-140,null,Basel,4004617-5,"Schweiz, Kanton Basel",XA-CH-BS
+IDD-141,null,Basel,4004617-5,"Schweiz, Kanton Basel",XA-CH-BS
+IDD-142,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-143,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-144,null,Strassburg,4057878-1,Frankreich,XA-FR
+IDD-145,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-146,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-147,null,Leipzig,4035206-7,"Deutschland, Sachsen-Anhalt",XA-DE-SN
+IDD-148,null,Leipzig,4035206-7,"Deutschland, Sachsen-Anhalt",XA-DE-SN
+IDD-149,null,Leipzig,4035206-7,"Deutschland, Sachsen-Anhalt",XA-DE-SN
+IDD-150,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-151,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-152,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-153,null,Lübeck,4036483-5,"Deutschland, Schleswig-Holstein",XA-DE-SH
+IDD-154,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-155,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-156,null,Strassburg,4057878-1,Frankreich,XA-FR
+IDD-157,null,Basel,4004617-5,"Schweiz, Kanton Basel",XA-CH-BS
+IDD-158,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-159,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-160,null,Strassburg,4057878-1,Frankreich,XA-FR
+IDD-161,null,Basel,4004617-5,"Schweiz, Kanton Basel",XA-CH-BS
+IDD-162,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-163,null,Basel,4004617-5,"Schweiz, Kanton Basel",XA-CH-BS
+IDD-164,null,Basel,4004617-5,"Schweiz, Kanton Basel",XA-CH-BS
+IDD-165,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-166,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-167,null,Leipzig,4035206-7,"Deutschland, Sachsen-Anhalt",XA-DE-SN
+IDD-168,null,Ulm,4061529-7,"Deutschland, Baden-Württemberg",XA-DE-BW
+IDD-169,null,Augsburg,4003614-5,"Deutschland, Bayern",XA-DE-BY
+IDD-170,null,Bamberg,4004391-5,"Deutschland, Bayern",XA-DE-BY
+IDD-171,null,Strassburg,4057878-1,Frankreich,XA-FR
+IDD-172,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-173,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-174,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-175,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-176,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-177,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-178,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-179,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-180,null,Leipzig,4035206-7,"Deutschland, Sachsen-Anhalt",XA-DE-SN
+IDD-181,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-182,null,Strassburg,4057878-1,Frankreich,XA-FR
+IDD-183,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-184,null,Augsburg,4003614-5,"Deutschland, Bayern",XA-DE-BY
+IDD-185,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-186,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-187,null,Strassburg,4057878-1,Frankreich,XA-FR
+IDD-188,null,Reutlingen,4049657-0,"Deutschland, Baden-Württemberg",XA-DE-BW
+IDD-189,null,Strassburg,4057878-1,Frankreich,XA-FR
+IDD-190,null,Basel,4004617-5,"Schweiz, Kanton Basel",XA-CH-BS
+IDD-191,null,Strassburg,4057878-1,Frankreich,XA-FR
+IDD-192,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-193,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-194,null,Strassburg,4057878-1,Frankreich,XA-FR
+IDD-195,null,Esslingen,4015575-4,"Deutschland, Baden-Württemberg",XA-DE-BW
+IDD-196,null,Esslingen,4015575-4,"Deutschland, Baden-Württemberg",XA-DE-BW
+IDD-197,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-198,null,Augsburg,4003614-5,"Deutschland, Bayern",XA-DE-BY
+IDD-199,null,Strassburg,4057878-1,Frankreich,XA-FR
+IDD-200,null,Strassburg,4057878-1,Frankreich,XA-FR
+IDD-201,null,Mainz,4037124-4,"Deutschland, Rheinland-Pfalz ",XA-DE-RP
+IDD-202,null,Strassburg,4057878-1,Frankreich,XA-FR
+IDD-203,Apud Lyskirchen,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-204,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-205,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-206,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-207,null,Augsburg,4003614-5,"Deutschland, Bayern",XA-DE-BY
+IDD-208,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-209,null,Mainz,4037124-4,"Deutschland, Rheinland-Pfalz ",XA-DE-RP
+IDD-210,null,Mainz,4037124-4,"Deutschland, Rheinland-Pfalz ",XA-DE-RP
+IDD-211,null,Ulm,4061529-7,"Deutschland, Baden-Württemberg",XA-DE-BW
+IDD-212,null,Bamberg,4004391-5,"Deutschland, Bayern",XA-DE-BY
+IDD-213,null,Magdeburg,4036934-1,"Deutschland, Sachsen-Anhalt",XA-DE-ST
+IDD-214,"(1) Basel (USTC, GW). (2) Speyer (ISTC)",Basel,4004617-5,"Schweiz, Kanton Basel",XA-CH-BS
+IDD-214,"(1) Basel (USTC, GW). (2) Speyer (ISTC)",Speyer,4056179-3,"Deutschland, Rheinland-Pfalz ",XA-DE-RP
+IDD-215,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-216,null,Magdeburg,4036934-1,"Deutschland, Sachsen-Anhalt",XA-DE-ST
+IDD-217,null,Magdeburg,4036934-1,"Deutschland, Sachsen-Anhalt",XA-DE-ST
+IDD-218,null,Lübeck,4036483-5,"Deutschland, Schleswig-Holstein",XA-DE-SH
+IDD-219,null,Leipzig,4035206-7,"Deutschland, Sachsen-Anhalt",XA-DE-SN
+IDD-220,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-221,null,Strassburg,4057878-1,Frankreich,XA-FR
+IDD-222,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-223,null,südliche Niederlande,4291570-3,(1) Niederlande. (2) Belgien,(1) XA-NL. (2) XA-BE
+IDD-224,null,Basel,4004617-5,"Schweiz, Kanton Basel",XA-CH-BS
+IDD-225,null,Basel,4004617-5,"Schweiz, Kanton Basel",XA-CH-BS
+IDD-226,null,Strassburg,4057878-1,Frankreich,XA-FR
+IDD-227,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-228,null,Ulm,4061529-7,"Deutschland, Baden-Württemberg",XA-DE-BW
+IDD-229,null,Ulm,4061529-7,"Deutschland, Baden-Württemberg",XA-DE-BW
+IDD-230,null,Ulm,4061529-7,"Deutschland, Baden-Württemberg",XA-DE-BW
+IDD-231,null,Ulm,4061529-7,"Deutschland, Baden-Württemberg",XA-DE-BW
+IDD-232,null,Augsburg,4003614-5,"Deutschland, Bayern",XA-DE-BY
+IDD-233,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-234,null,Augsburg,4003614-5,"Deutschland, Bayern",XA-DE-BY
+IDD-235,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-236,null,Augsburg,4003614-5,"Deutschland, Bayern",XA-DE-BY
+IDD-237,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-238,null,Speyer,4056179-3,"Deutschland, Rheinland-Pfalz ",XA-DE-RP
+IDD-239,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-240,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-241,null,Lyon,4036770-8,Frankreich,XA-FR
+IDD-242,null,Lyon,4036770-8,Frankreich,XA-FR
+IDD-243,null,Paris,4044660-8,Frankreich,XA-FR
+IDD-244,null,Paris,4044660-8,Frankreich,XA-FR
+IDD-245,null,Zaragoza,4079463-5,Spanien,XA-ES
+IDD-246,null,Zaragoza,4079463-5,Spanien,XA-ES
+IDD-247,null,Sevilla,4054671-8,Spanien,XA-ES
+IDD-249,null,Burgos,4080584-0,Spanien,XA-ES
+IDD-250,null,Paris,4044660-8,Frankreich,XA-FR
+IDD-251,null,Paris,4044660-8,Frankreich,XA-FR
+IDD-252,null,Lyon,4036770-8,Frankreich,XA-FR
+IDD-253,null,Paris,4044660-8,Frankreich,XA-FR
+IDD-254,null,Paris,4044660-8,Frankreich,XA-FR
+IDD-255,null,Venedig,4062501-1,Italien,XA-IT
+IDD-256,null,Venedig,4062501-1,Italien,XA-IT
+IDD-257,null,Pavia,4044970-1,Italien,XA-IT
+IDD-258,null,Rom,4050471-2,Italien,XA-IT
+IDD-259,(1) Rom (USTC). (2) Ortona (BSB Münschen),Ortona,4461346-5,Italien,XA-IT
+IDD-259,(1) Rom (USTC). (2) Ortona (BSB Münschen),Rom,4050471-2,Italien,XA-IT
+IDD-260,null,Venedig,4062501-1,Italien,XA-IT
+IDD-261,null,Venedig,4062501-1,Italien,XA-IT
+IDD-262,null,Venedig,4062501-1,Italien,XA-IT
+IDD-263,null,Venedig,4062501-1,Italien,XA-IT
+IDD-264,null,Florenz,4017581-9,Italien,XA-IT
+IDD-265,null,Venedig,4062501-1,Italien,XA-IT
+IDD-266,null,Venedig,4062501-1,Italien,XA-IT
+IDD-267,null,Venedig,4062501-1,Italien,XA-IT
+IDD-268,null,Florenz,4017581-9,Italien,XA-IT
+IDD-269,null,Florenz,4017581-9,Italien,XA-IT
+IDD-270,null,Venedig,4062501-1,Italien,XA-IT
+IDD-271,null,Venedig,4062501-1,Italien,XA-IT
+IDD-272,null,Florenz,4017581-9,Italien,XA-IT
+IDD-273,null,Venedig,4062501-1,Italien,XA-IT
+IDD-274,null,Ortona,4461346-5,Italien,XA-IT
+IDD-275,null,Pavia,4044970-1,Italien,XA-IT
+IDD-276,null,Venedig,4062501-1,Italien,XA-IT
+IDD-277,null,Paris,4044660-8,Frankreich,XA-FR
+IDD-278,null,Venedig,4062501-1,Italien,XA-IT
+IDD-279,null,Venedig,4062501-1,Italien,XA-IT
+IDD-280,null,Ancona,4395123-5,Italien,XA-IT
+IDD-281,null,Neapel,4041476-0,Italien,XA-IT
+IDD-282,null,Rom,4050471-2,Italien,XA-IT
+IDD-283,null,Rom,4050471-2,Italien,XA-IT
+IDD-284,null,Treviso,4119702-1,Italien,XA-IT
+IDD-285,null,Rom,4050471-2,Italien,XA-IT
+IDD-286,null,Venedig,4062501-1,Italien,XA-IT
+IDD-287,null,Venedig,4062501-1,Italien,XA-IT
+IDD-288,(1) Sant'Orso (ISTC). (2) Vicenza (GW),Sant'Orso,4219914-1,Italien,XA-IT
+IDD-288,(1) Sant'Orso (ISTC). (2) Vicenza (GW),Vicenza,4063445-0,Italien,XA-IT
+IDD-289,null,Treviso,4119702-1,Italien,XA-IT
+IDD-290,null,Mantua,4114978-6,Italien,XA-IT
+IDD-291,null,Trient,4078405-8,"Italien, Trentino-Südtirol",XA-IT-32
+IDD-292,null,Trient,4078405-8,"Italien, Trentino-Südtirol",XA-IT-32
+IDD-293,null,Trient,4078405-8,"Italien, Trentino-Südtirol",XA-IT-32
+IDD-294,null,Venedig,4062501-1,Italien,XA-IT
+IDD-295,null,Venedig,4062501-1,Italien,XA-IT
+IDD-296,null,Trient,4078405-8,"Italien, Trentino-Südtirol",XA-IT-32
+IDD-297,null,Verona,4063110-2,Italien,XA-IT
+IDD-298,null,Treviso,4119702-1,Italien,XA-IT
+IDD-299,null,Treviso,4119702-1,Italien,XA-IT
+IDD-300,null,Treviso,4119702-1,Italien,XA-IT
+IDD-301,null,Sant'Orso,4219914-1,Italien,XA-IT
+IDD-302,null,Venedig,4062501-1,Italien,XA-IT
+IDD-303,null,Trient,4078405-8,"Italien, Trentino-Südtirol",XA-IT-32
+IDD-304,null,Bologna,4007616-7,Italien,XA-IT
+IDD-305,null,Rom,4050471-2,Italien,XA-IT
+IDD-306,null,Rom,4050471-2,Italien,XA-IT
+IDD-307,"(1) Messina (USTC, GW). (2) Bologna? (ISTC)",Bologna,4007616-7,Italien,XA-IT
+IDD-307,"(1) Messina (USTC, GW). (2) Bologna? (ISTC)",Messina,4038833-5,Italien,XA-IT
+IDD-308,"(1) Neapel (USTC, GW). (2) Rom (ISTC)",Neapel,4041476-0,Italien,XA-IT
+IDD-308,"(1) Neapel (USTC, GW). (2) Rom (ISTC)",Rom,4050471-2,Italien,XA-IT
+IDD-309,"(1) Sant'Orso (USTC, GW). (2) Venedig (ISTC, GW)",Sant'Orso,4219914-1,Italien,XA-IT
+IDD-309,"(1) Sant'Orso (USTC, GW). (2) Venedig (ISTC, GW)",Venedig,4062501-1,Italien,XA-IT
+IDD-310,null,Sant'Orso,4219914-1,Italien,XA-IT
+IDD-311,null,Florenz,4017581-9,Italien,XA-IT
+IDD-312,null,Bologna,4007616-7,Italien,XA-IT
+IDD-313,null,Mantua,4114978-6,Italien,XA-IT
+IDD-314,null,Rom,4050471-2,Italien,XA-IT
+IDD-315,null,Mailand,4037100-1,Italien,XA-IT
+IDD-316,Italien (Neapel?),Neapel,4041476-0,Italien,XA-IT
+IDD-317,null,Vercelli,4119399-4,Italien,XA-IT
+IDD-318,null,Venedig,4062501-1,Italien,XA-IT
+IDD-319,null,Venedig,4062501-1,Italien,XA-IT
+IDD-320,null,Venedig,4062501-1,Italien,XA-IT
+IDD-321,null,Venedig,4062501-1,Italien,XA-IT
+IDD-322,null,Venedig,4062501-1,Italien,XA-IT
+IDD-323,null,Venedig,4062501-1,Italien,XA-IT
+IDD-324,null,Mailand,4037100-1,Italien,XA-IT
+IDD-325,null,Venedig,4062501-1,Italien,XA-IT
+IDD-326,null,Venedig,4062501-1,Italien,XA-IT
+IDD-327,null,Padua,4044295-0,Italien,XA-IT
+IDD-328,null,Bologna,4007616-7,Italien,XA-IT
+IDD-329,null,Rom,4050471-2,Italien,XA-IT
+IDD-330,null,Rom,4050471-2,Italien,XA-IT
+IDD-331,?,Sant'Orso,4219914-1,Italien,XA-IT
+IDD-332,null,Rom,4050471-2,Italien,XA-IT
+IDD-333,null,Padua,4044295-0,Italien,XA-IT
+IDD-334,null,Rom,4050471-2,Italien,XA-IT
+IDD-335,null,Rom,4050471-2,Italien,XA-IT
+IDD-336,null,Venedig,4062501-1,Italien,XA-IT
+IDD-337,null,Padua,4044295-0,Italien,XA-IT
+IDD-338,null,Venedig,4062501-1,Italien,XA-IT
+IDD-339,null,Venedig,4062501-1,Italien,XA-IT
+IDD-340,null,Venedig,4062501-1,Italien,XA-IT
+IDD-341,null,Venedig,4062501-1,Italien,XA-IT
+IDD-342,null,Venedig,4062501-1,Italien,XA-IT
+IDD-343,null,Venedig,4062501-1,Italien,XA-IT
+IDD-344,null,Venedig,4062501-1,Italien,XA-IT
+IDD-345,null,Trient,4078405-8,"Italien, Trentino-Südtirol",XA-IT-32
+IDD-346,null,Venedig,4062501-1,Italien,XA-IT
+IDD-347,null,Vicenza,4063445-0,Italien,XA-IT
+IDD-348,null,Venedig,4062501-1,Italien,XA-IT
+IDD-349,null,Venedig,4062501-1,Italien,XA-IT
+IDD-350,null,Venedig,4062501-1,Italien,XA-IT
+IDD-351,null,Venedig,4062501-1,Italien,XA-IT
+IDD-352,null,Florenz,4017581-9,Italien,XA-IT
+IDD-353,null,Venedig,4062501-1,Italien,XA-IT
+IDD-354,null,Vicenza,4063445-0,Italien,XA-IT
+IDD-355,null,Mailand,4037100-1,Italien,XA-IT
+IDD-356,null,Bologna,4007616-7,Italien,XA-IT
+IDD-357,null,Mantua,4114978-6,Italien,XA-IT
+IDD-358,null,Venedig,4062501-1,Italien,XA-IT
+IDD-359,(1) Neapel? (USTC). (2) Florenz? (ISTC),Florenz,4017581-9,Italien,XA-IT
+IDD-359,(1) Neapel? (USTC). (2) Florence? (ISTC),Neapel,4041476-0,Italien,XA-IT
+IDD-360,null,Rom,4050471-2,Italien,XA-IT
+IDD-361,null,Rom,4050471-2,Italien,XA-IT
+IDD-362,null,Rom,4050471-2,Italien,XA-IT
+IDD-363,null,Treviso,4119702-1,Italien,XA-IT
+IDD-364,(1) Italien? (2) Florenz?,Florenz,4017581-9,Italien,XA-IT
+IDD-364,(1) Italien ? (2) Florenz ?,null,null,Italien,XA-IT
+IDD-365,null,Venedig,4062501-1,Italien,XA-IT
+IDD-366,null,Florenz,4017581-9,Italien,XA-IT
+IDD-367,null,Siena,4054903-3,Italien,XA-IT
+IDD-368,null,Pescia,4304125-5,Italien,XA-IT
+IDD-369,null,Florenz,4017581-9,Italien,XA-IT
+IDD-370,null,Venedig,4062501-1,Italien,XA-IT
+IDD-371,null,Mailand,4037100-1,Italien,XA-IT
+IDD-372,null,Venedig,4062501-1,Italien,XA-IT
+IDD-373,null,Venedig,4062501-1,Italien,XA-IT
+IDD-374,null,Venedig,4062501-1,Italien,XA-IT
+IDD-375,null,Venedig,4062501-1,Italien,XA-IT
+IDD-376,null,Trient,4078405-8,"Italien, Trentino-Südtirol",XA-IT-32
+IDD-377,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-378,null,Frankfurt (Main),4018118-2,"Deutschland, Hessen",XA-DE-HE
+IDD-379,null,Strassburg,4057878-1,Frankreich,XA-FR
+IDD-380,null,Leipzig,4035206-7,"Deutschland, Sachsen-Anhalt",XA-DE-SN
+IDD-382,null,Valencia,4062284-8,Spanien,XA-ES
+IDD-383,null,Augsburg,4003614-5,"Deutschland, Bayern",XA-DE-BY
+IDD-384,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-385,null,Zaragoza,4079463-5,Spanien,XA-ES
+IDD-385,null,Zaragoza,4079463-5,Spanien,XA-ES
+IDD-386,null,Zaragoza,4079463-5,Spanien,XA-ES
+IDD-386,null,Zaragoza,4079463-5,Spanien,XA-ES
+IDD-387,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-390,null,Ulm,4061529-7,"Deutschland, Baden-Württemberg",XA-DE-BW
+IDD-391,null,Oberdeutschland,4295365-0,Deutschland,XA-DE
+IDD-392,null,Venedig,4062501-1,Italien,XA-IT
+IDD-393,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-394,null,Mähren,4074432-2,"Tschechischen, Mähren",XA-BE
+IDD-395,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-396,null,Florenz,4017581-9,Italien,XA-IT
+IDD-397,null,Memmingen,4038586-3,"Deutschland, Bayern",XA-DE-BY
+IDD-398,null,Venedig,4062501-1,Italien,XA-IT
+IDD-401,null,null,null,Niederlande,XA-NL
+IDD-403,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-404,null,Weimar,4065105-8,"Deutschland, Thüringen",XA-DE-TH
+IDD-406,null,Nürnberg,4042742-0,"Deutschland, Bayern",XA-DE-BY
+IDD-407,null,Strassburg,4057878-1,Frankreich,XA-FR
+IDD-408,null,Bologna,4007616-7,Italien,XA-IT
+IDD-411,null,Köln,4031483-2,"Deutschland, Nordrhein-Westfalen",XA-DE-NW
+IDD-412,null,Augsburg,4003614-5,"Deutschland, Bayern",XA-DE-BY
+IDD-413,null,Augsburg,4003614-5,"Deutschland, Bayern",XA-DE-BY
